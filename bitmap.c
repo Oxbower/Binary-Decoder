@@ -1,5 +1,5 @@
 /**
- * Name: Mark Jerald Santiago
+ * author: Mark Jerald Santiago
  *
  * description: bitmap.c does all the byte processing for main.c
  * */
