@@ -1,7 +1,5 @@
 /**
  * Name: Mark Jerald Santiago
- * B00: 918622
- * dal.ca: mark.s@dal.ca
  *
  * description: main runner file for assignment_2 takes in all input
  *              and processes it in bitmap.c
