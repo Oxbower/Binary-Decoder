@@ -1,5 +1,5 @@
 /**
- * Name: Mark Jerald Santiago
+ * author: Mark Jerald Santiago
  *
  * description: main runner file for assignment_2 takes in all input
  *              and processes it in bitmap.c
