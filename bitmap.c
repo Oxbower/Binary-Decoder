@@ -1,7 +1,5 @@
 /**
  * Name: Mark Jerald Santiago
- * B00: 918622
- * dal.ca: mark.s@dal.ca
  *
  * description: bitmap.c does all the byte processing for main.c
  * */
