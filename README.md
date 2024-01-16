@@ -17,13 +17,13 @@ i.e.
 8 0x43 0xdb 0x13 0x4b 0x2b 0xc6 0x14 0xe0  
 9 0xfb 0xff 0xff 0xff 0xff 0xc0 0x00 0x00 0x01  
 
-Should return
-Line 1, integer 1: 0
-Line 1, integer 2: -1
-Line 2, integer 1: 1
-Line 2, integer 2: -2
-Line 2, integer 3: 3
-Line 2, integer 4: -4
-Line 3, integer 1: 123
-Line 3, integer 2: 1234
-Line 3, integer 3: 12345678
+Should return  
+Line 1, integer 1: 0  
+Line 1, integer 2: -1  
+Line 2, integer 1: 1  
+Line 2, integer 2: -2  
+Line 2, integer 3: 3  
+Line 2, integer 4: -4  
+Line 3, integer 1: 123  
+Line 3, integer 2: 1234  
+Line 3, integer 3: 12345678  
